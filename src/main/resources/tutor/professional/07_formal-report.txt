@@ -1,0 +1,6 @@
+# Formal language with numbers and percentages.
+Overall customer satisfaction rose from 71% to 84% between
+January and September, while average response time fell by
+38 seconds. The largest improvement, 19 points, came from
+the new support portal; the smallest, 4 points, came from
+printed documentation.

@@ -1,0 +1,7 @@
+# Brackets and braces are typed with the right little finger. Slashes use the right little finger too.
+[ ] { } ( ) < > / \ | ? list[0] map{key} (note) <tag>
+path/to/file C:\temp\log if (x > 0) { y = list[x]; } // done
+[ ] { } ( ) < > / \ | ? list[0] map{key} (note) <tag>
+path/to/file C:\temp\log if (x > 0) { y = list[x]; } // done
+[ ] { } ( ) < > / \ | ? list[0] map{key} (note) <tag>
+path/to/file C:\temp\log if (x > 0) { y = list[x]; } // done

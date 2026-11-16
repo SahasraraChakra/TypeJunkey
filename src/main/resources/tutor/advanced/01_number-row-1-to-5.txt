@@ -1,0 +1,6 @@
+# Left hand: little finger 1, ring finger 2, middle finger 3, index finger 4 and 5. Look at the screen, not the keys.
+12345 54321 13524 24153 11 22 33 44 55 12 23 34 45 51 3
+apples 4 pears 5 plums 2 figs 1 lime 12345 54321 13524 24153
+11 22 33 44 55 12 23 34 45 51 3 apples 4 pears 5 plums 2
+figs 1 lime 12345 54321 13524 24153 11 22 33 44 55 12 23 34
+45 51 3 apples 4 pears 5 plums 2 figs 1 lime

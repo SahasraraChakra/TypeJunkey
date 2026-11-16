@@ -1,0 +1,8 @@
+# Longer sentences with several clauses and punctuation marks.
+When the morning mail finally arrived, after a long wait at
+the door, she opened the largest envelope first, read the
+letter twice, and then, smiling quietly, began to write a
+reply. When the morning mail finally arrived, after a long
+wait at the door, she opened the largest envelope first,
+read the letter twice, and then, smiling quietly, began to
+write a reply.

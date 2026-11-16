@@ -1,0 +1,6 @@
+# Numbers inside everyday text: dates, prices and quantities.
+On 12 March 2024 we sold 348 tickets at 15 each, 62 more
+than the 286 sold in 2023. Room 407 holds 36 seats; room 512
+holds 118. On 12 March 2024 we sold 348 tickets at 15 each,
+62 more than the 286 sold in 2023. Room 407 holds 36 seats;
+room 512 holds 118.

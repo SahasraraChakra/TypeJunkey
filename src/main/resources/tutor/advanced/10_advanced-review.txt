@@ -1,0 +1,6 @@
+# Everything together: capitals, punctuation, numbers and symbols.
+Invoice #4821 (due 30 June): 12 units at $45.50 = $546.00,
+plus 8% tax. Contact: accounts@example.org; phone 555-0147.
+Thank you!Invoice #4821 (due 30 June): 12 units at $45.50 =
+$546.00, plus 8% tax. Contact: accounts@example.org; phone
+555-0147. Thank you!

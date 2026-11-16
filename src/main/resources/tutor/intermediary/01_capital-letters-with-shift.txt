@@ -1,0 +1,8 @@
+# Hold Shift with the little finger of the hand that is NOT typing the letter. Left Shift for right-hand letters, right Shift for left-hand letters.
+# Release Shift straight away after the capital.
+Time People Water Light Morning River Garden Market Library
+Station Harbour Kitchen Winter Summer Autumn Spring Monday
+Friday London Paris Berlin Tokyo Cairo Delhi Time People
+Water Light Morning River Garden Market Library Station
+Harbour Kitchen Winter Summer Autumn Spring Monday Friday
+London Paris Berlin Tokyo Cairo Delhi

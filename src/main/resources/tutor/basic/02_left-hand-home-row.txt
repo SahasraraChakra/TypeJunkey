@@ -1,0 +1,6 @@
+# Use one finger per key: little finger A, ring finger S, middle finger D, index finger F.
+# Press each key with a light, quick tap and return the finger to its home key.
+asdf fdsa sdfa dsaf afsd fads sadf dfas aa ss dd ff as sa ds
+sd df fd af fa fad sad dad add fads sass dass fassasdf fdsa
+sdfa dsaf afsd fads sadf dfas aa ss dd ff as sa ds sd df fd
+af fa fad sad dad add fads sass dass fass

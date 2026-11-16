@@ -1,0 +1,7 @@
+# Symbols above 6 to 0, plus underscore and plus. Use left Shift for the right-hand symbols.
+^&*() )(*&^ ^^^ &&& *** ((( ))) a+b=c (a+b)*(c+d) x_y_z
+5*(6+7) && 2^8 = 256 (a&b) n*(n+1)/2 snake_case_name ^&*()
+)(*&^ ^^^ &&& *** ((( ))) a+b=c (a+b)*(c+d) x_y_z 5*(6+7) &&
+2^8 = 256 (a&b) n*(n+1)/2 snake_case_name ^&*() )(*&^ ^^^
+&&& *** ((( ))) a+b=c (a+b)*(c+d) x_y_z 5*(6+7) && 2^8 = 256
+(a&b) n*(n+1)/2 snake_case_name

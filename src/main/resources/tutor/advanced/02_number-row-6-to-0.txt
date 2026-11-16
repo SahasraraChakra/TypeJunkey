@@ -1,0 +1,6 @@
+# Right hand: index finger 6 and 7, middle finger 8, ring finger 9, little finger 0.
+67890 09876 68790 79680 66 77 88 99 00 67 78 89 90 06 7 days
+8 hours 9 minutes 60 seconds 100 years 67890 09876 68790
+79680 66 77 88 99 00 67 78 89 90 06 7 days 8 hours 9 minutes
+60 seconds 100 years 67890 09876 68790 79680 66 77 88 99 00
+67 78 89 90 06 7 days 8 hours 9 minutes 60 seconds 100 years

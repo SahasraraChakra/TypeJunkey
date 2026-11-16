@@ -1,0 +1,4 @@
+# Programming text uses many symbols. Type each bracket and semicolon exactly.
+public static int sum(int[] values) { int total = 0; for
+(int i = 0; i < values.length; i++) { total += values[i]; }
+return total; } // returns 0 for an empty array

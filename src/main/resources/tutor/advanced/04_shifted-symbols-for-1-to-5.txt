@@ -1,0 +1,7 @@
+# Hold the opposite Shift. The symbols sit above the numbers 1 to 5: left hand, so use right Shift.
+!@#$% %$#@! !!! @@@ ### $$$ %%% email@site.com #tag $25 50%
+!done user@mail.org #plan $300 75% !ready !@#$% %$#@! !!!
+@@@ ### $$$ %%% email@site.com #tag $25 50% !done
+user@mail.org #plan $300 75% !ready !@#$% %$#@! !!! @@@ ###
+$$$ %%% email@site.com #tag $25 50% !done user@mail.org
+#plan $300 75% !ready

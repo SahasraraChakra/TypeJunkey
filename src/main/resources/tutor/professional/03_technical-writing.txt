@@ -1,0 +1,7 @@
+# Precise terms, long words and careful punctuation.
+A well-designed cache stores frequently requested results so
+that repeated requests can be answered without
+recomputation. The trade-off is memory: a larger cache
+improves the hit rate, but it also increases the cost of
+invalidation, which must occur whenever the underlying data
+changes.
