@@ -1,7 +1,32 @@
 # TypeJunKey
 
 A Java 17+ Swing desktop port of [Monkeytype](https://github.com/monkeytypegame/monkeytype) (v26.43.0) with a built-in typing tutor.
-UI: FlatLaf (IntelliJ light / Darcula dark). Fonts: Inter (interface) and Cascadia (typing).
+UI: FlatLaf (IntelliJ light / Darcula dark). Fonts: Inter (interface) and Cascadia (typing). Version no paralleled with MonkeyType Project.
+
+
+#### Note : Vibe Coded, In-Development - Bugs may exist - Use with caution - Report Bugs and Feature Requirements!!!
+![Status: In Build](https://img.shields.io/badge/Status-In%20Developement-red) ![Stage: Alpha](https://shields.io/badge/Release-Alpha-green) ![Version: 26.43.0](https://shields.io/badge/version-26.43.0-yellow)  
+
+## ❤️ Support This Project
+
+If you enjoy using this software, you can support
+its continued development!
+
+### 🍕 Buy Me a Pizza  
+<a href="https://buymeacoffee.com/sahasrarachakra?l=en">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       height="50">
+</a>
+
+
+## If you are an Indian Supporter
+### 🇮🇳 Support via UPI
+
+Scan this QR code using Google Pay, PhonePe or Paytm.
+
+<img src="donate/upi-qr.png" alt="UPI Donation QR" width="250">
+
+Thank you for supporting open-source development!
 
 ### Screens
 
